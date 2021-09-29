@@ -12,7 +12,7 @@ const Hero = (props) => (
           Welcome To <br />
           My Personal Portfolio
         </SectionTitle>
-        <SectionText>Hey there! I’m Bobokhon Rajabov, A Front-End Developer. Check out my work here</SectionText>
+        <SectionText>I am a front-end developer, building applications with React.</SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>

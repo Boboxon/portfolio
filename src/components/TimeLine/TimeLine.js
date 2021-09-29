@@ -59,7 +59,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         {" "}
-        My name is Bobokhon Rajabov. I am a Front-End Developer and I specialize in creating websites.
+        My name is Bobokhon Rajabov. I am a front-end developer and I specialize in creating websites.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

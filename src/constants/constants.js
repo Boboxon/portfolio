@@ -1,5 +1,25 @@
 export const projects = [
   {
+    title: "Booking Place App",
+    description:
+      "Booking App is For to make reservation places Like Restaurnats,Pools and other places. In this project I ahve learnt React Native fundamentals",
+    image: "/images/booking1.jpg",
+    tags: ["React Native", "Time Picker", "Navigations"],
+    source: "/",
+    visit: "https://expo.dev/@bobokhon/registration",
+    id: 10,
+  },
+  {
+    title: "Nearby Laundry App",
+    description:
+      "It is Laundry app. It is used for searching nearby laundries and to make reservations.App shows all list,price and categories. In this project I ahve learnt React Native fundamentals and how to use Navigations, passing data between screens.",
+    image: "/images/laundry1.jpg",
+    tags: ["React Native", "Navigations"],
+    source: "/",
+    visit: "https://expo.dev/@bobokhon/myproject",
+    id: 11,
+  },
+  {
     title: "Cryptocurrency Price Tracker Website",
     description:
       "Using React(styled component,hooks) I'll learn how to build a React Application - from start to finish. The App is called Crypto.Uz and it is a simple show cryptocurrency prices, statistics detailed information and make voice controlled searches about a specific crypto.",
